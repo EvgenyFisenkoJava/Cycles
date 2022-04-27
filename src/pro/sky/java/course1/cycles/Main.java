@@ -25,6 +25,7 @@ public class Main {
 
         // задание 3
 
+
         for (int s = 1822; s <= 2122; s+=1)
             if (s % 79== 0) {
                 System.out.println(s);
